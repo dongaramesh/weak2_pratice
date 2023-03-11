@@ -1,0 +1,11 @@
+begin
+print("enter the number");
+num;
+if(num>0){
+print("num is+positive number");
+}
+else{
+
+print("num is-positive number");
+
+end

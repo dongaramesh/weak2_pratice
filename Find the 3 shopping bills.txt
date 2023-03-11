@@ -1,0 +1,15 @@
+begin
+pritn("enter the employe salary");
+print("enter the 3 shopping billes");
+input em_salary;
+ input shopping_bill 1;
+ input shopping_bill 2;
+ input shopping_bill 3;
+total_amount=shopping_bill1+shopping_bill2+shopping_bill3;
+
+Balance=em_salary-total_amount
+spend_salary_shopping=em_salary-Balance
+
+print("spend_salary_shopping");
+
+end
