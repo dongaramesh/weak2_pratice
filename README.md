@@ -1,0 +1,12 @@
+begin
+print("enter the 3 subject marks" 
+input sub1
+input sub2
+input sub3
+
+total_marks =sub1+sub1+sub1
+average_marks =total_marks/3
+
+print(total_marks);
+print(average_marks);
+end
